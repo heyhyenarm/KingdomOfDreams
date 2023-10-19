@@ -8,7 +8,7 @@ using UnityEngine.UI;
 public class FairyShop : MonoBehaviour
 {
     public UIFairyShop uiDirector;
-    public NHRCharacterPlayer player;
+    public CharacterPlayer player;
     public Camera camPlayer;
 
     private Renderer playerRen;
