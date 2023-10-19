@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class UIFairyShop : MonoBehaviour
 {
-    public NHRCharacterPlayer player;
+    public CharacterPlayer player;
     public Button btnCharaterChange;
     public Button btnClose;
     public Button btnSelect;
